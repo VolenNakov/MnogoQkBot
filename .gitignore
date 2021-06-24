@@ -1,0 +1,4 @@
+.env
+known_macs.txt
+known_macs_2.txt
+macs.json
